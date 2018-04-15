@@ -11,13 +11,20 @@ h1 {
   text-align: center;
 }
 
-p.coming-soon {
+h2 {
+	font-family: Verdana;
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
+  text-align: center;
+}
+
+a.coming-soon {
   font-family: Verdana;
   font-size: 16px;
   color: aquamarine;
   font-weight: normal;
   text-align: center;
-  text-decoration: underline;
 }
 
 #excursion1 {
@@ -32,12 +39,4 @@ p.coming-soon {
   font-size: 21px;
   color: grey;
   text-align: right;
-}
-
-#travel-guide {
-  font-family: Verdana;
-  font-size: 42px;
-  color: white;
-  font-weight: 300;
-  text-align: center;
 }
